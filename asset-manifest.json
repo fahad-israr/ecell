@@ -1,14 +1,14 @@
 {
-  "main.css": "fahad00cms.github.io/ecell/static/css/main.036e6de3.chunk.css",
-  "main.js": "fahad00cms.github.io/ecell/static/js/main.9d8fe700.chunk.js",
-  "main.js.map": "fahad00cms.github.io/ecell/static/js/main.9d8fe700.chunk.js.map",
-  "static/js/1.f739feb7.chunk.js": "fahad00cms.github.io/ecell/static/js/1.f739feb7.chunk.js",
-  "static/js/1.f739feb7.chunk.js.map": "fahad00cms.github.io/ecell/static/js/1.f739feb7.chunk.js.map",
-  "runtime~main.js": "fahad00cms.github.io/ecell/static/js/runtime~main.d8c77d57.js",
-  "runtime~main.js.map": "fahad00cms.github.io/ecell/static/js/runtime~main.d8c77d57.js.map",
-  "static/css/main.036e6de3.chunk.css.map": "fahad00cms.github.io/ecell/static/css/main.036e6de3.chunk.css.map",
-  "static/media/style.css": "fahad00cms.github.io/ecell/static/media/earthmap.2eb49487.jpg",
-  "index.html": "fahad00cms.github.io/ecell/index.html",
-  "precache-manifest.2209d998d42b58f7e6145db2c69e00a3.js": "fahad00cms.github.io/ecell/precache-manifest.2209d998d42b58f7e6145db2c69e00a3.js",
-  "service-worker.js": "fahad00cms.github.io/ecell/service-worker.js"
+  "main.css": "/ecell/static/css/main.eb90c402.chunk.css",
+  "main.js": "/ecell/static/js/main.51c6afcf.chunk.js",
+  "main.js.map": "/ecell/static/js/main.51c6afcf.chunk.js.map",
+  "static/js/1.f739feb7.chunk.js": "/ecell/static/js/1.f739feb7.chunk.js",
+  "static/js/1.f739feb7.chunk.js.map": "/ecell/static/js/1.f739feb7.chunk.js.map",
+  "runtime~main.js": "/ecell/static/js/runtime~main.f9c113ac.js",
+  "runtime~main.js.map": "/ecell/static/js/runtime~main.f9c113ac.js.map",
+  "static/css/main.eb90c402.chunk.css.map": "/ecell/static/css/main.eb90c402.chunk.css.map",
+  "static/media/style.css": "/ecell/static/media/stars.6494ab5b.png",
+  "index.html": "/ecell/index.html",
+  "precache-manifest.57ec5a5dc88a16e278df771131204c6a.js": "/ecell/precache-manifest.57ec5a5dc88a16e278df771131204c6a.js",
+  "service-worker.js": "/ecell/service-worker.js"
 }

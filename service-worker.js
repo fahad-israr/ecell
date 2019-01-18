@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "fahad00cms.github.io/ecell/precache-manifest.2209d998d42b58f7e6145db2c69e00a3.js"
+  "/ecell/precache-manifest.57ec5a5dc88a16e278df771131204c6a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("fahad00cms.github.io/ecell/index.html", {
+workbox.routing.registerNavigationRoute("/ecell/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
