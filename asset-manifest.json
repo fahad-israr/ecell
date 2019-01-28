@@ -1,14 +1,14 @@
 {
-  "main.css": "/ecell/static/css/main.60977ec9.chunk.css",
-  "main.js": "/ecell/static/js/main.fcf969ed.chunk.js",
-  "main.js.map": "/ecell/static/js/main.fcf969ed.chunk.js.map",
+  "main.css": "/ecell/static/css/main.3464f0b1.chunk.css",
+  "main.js": "/ecell/static/js/main.2d551093.chunk.js",
+  "main.js.map": "/ecell/static/js/main.2d551093.chunk.js.map",
   "static/js/1.f739feb7.chunk.js": "/ecell/static/js/1.f739feb7.chunk.js",
   "static/js/1.f739feb7.chunk.js.map": "/ecell/static/js/1.f739feb7.chunk.js.map",
   "runtime~main.js": "/ecell/static/js/runtime~main.f9c113ac.js",
   "runtime~main.js.map": "/ecell/static/js/runtime~main.f9c113ac.js.map",
-  "static/css/main.60977ec9.chunk.css.map": "/ecell/static/css/main.60977ec9.chunk.css.map",
+  "static/css/main.3464f0b1.chunk.css.map": "/ecell/static/css/main.3464f0b1.chunk.css.map",
   "static/media/style.css": "/ecell/static/media/clouds.79e8fa64.png",
   "index.html": "/ecell/index.html",
-  "precache-manifest.52ab1c486b80b2fc31532611cdf516cd.js": "/ecell/precache-manifest.52ab1c486b80b2fc31532611cdf516cd.js",
+  "precache-manifest.db74e119030aa6277f1ac8e2bc04c70e.js": "/ecell/precache-manifest.db74e119030aa6277f1ac8e2bc04c70e.js",
   "service-worker.js": "/ecell/service-worker.js"
 }
